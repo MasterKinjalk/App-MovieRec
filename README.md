@@ -1,4 +1,4 @@
-# movie_rec_app
+# Movie_Rec_App
 
 A new Flutter project.
 
