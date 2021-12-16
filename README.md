@@ -71,4 +71,9 @@ Start the server
 - Experimenting with the use of Deep Learning Techniques to improve the recmmedation system ( e.g TabNet, Embedding Layers)
 - Building a Data Flywheel to automatically re-train the model based on addition of real world data 
 
+## UI 
+ 
+ ! https://www.veed.io/view/fd361be3-b3a2-4765-a013-59deef215a2e
+
+
 
