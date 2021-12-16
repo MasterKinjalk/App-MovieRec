@@ -1,16 +1,9 @@
 # Movie_Rec_App
 
-A new Flutter project.
+A new Flutter project. The APP can provide movie recommendations, from your browishing experience. 
 
-## Getting Started
+# UI
+  
+https://www.veed.io/view/fd361be3-b3a2-4765-a013-59deef215a2e
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
